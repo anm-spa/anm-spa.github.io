@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course, 7.5 credits"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Mälardalen University, Computer Science and Software Engineering Department"
-date: 2014-01-01
+Offered: from 2020
 location: "Västerås, Sweden"
 ---
 
