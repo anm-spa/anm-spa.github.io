@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Object Oriented design of computer programs"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Mälardalen University"
 date: 2015-01-01
-location: "City, Country"
+location: "Västerås, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course aims to provide a deep understanding of the object-oriented (OO) design of computer programs so that students utilize the related concepts in solving computer science problems. To do so, the following concepts are included in this course:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- The basic principles of OO design
+- Modular decomposition of the problems (Classes, objects, field, modifiers, methods, constructors, etc)
+- Inheritance and Subtype polymorphism (reusing the OO design) 
+- Static and dynamic binding, method and data hiding, Static methods, Overloading
+- Advanced concepts such as generics, Delegates, Events, Exceptions, abstract classes and interfaces, Operator overloading, etc.
+- Various Design patterns
