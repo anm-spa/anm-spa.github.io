@@ -1,12 +1,12 @@
 ---
-title: "Object Oriented design of computer programs"
+title: "Object-Oriented Programming"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Mälardalen University"
 date: 2015-01-01
 location: "Västerås, Sweden"
----
+
 
 This course aims to provide a deep understanding of the object-oriented (OO) design of computer programs so that students utilize the related concepts in solving computer science problems. To do so, the following concepts are included in this course:
 
@@ -16,3 +16,5 @@ This course aims to provide a deep understanding of the object-oriented (OO) des
 - Static and dynamic binding, method and data hiding, Static methods, Overloading
 - Advanced concepts such as generics, Delegates, Events, Exceptions, abstract classes and interfaces, Operator overloading, etc.
 - Various Design patterns
+
+---
