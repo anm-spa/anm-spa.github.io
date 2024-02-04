@@ -10,10 +10,18 @@ location: "Västerås, Sweden"
 
 Formal Languages, Automata and Theory of Computation provides an insight into theoretical foundations of artificial languages, automata and theory of computation - topics that appear in various disguises in every branch of computer science.
 
-Course contents are available at [Canvas](https://canvas.mdu.se) (MDU learning platform)
+**Learning outcomes**
 
-Course Literature
-======
+After completing the course the student shall be able to:
 
-1. Modern Compiler Implementation in Java, Andrew W. Appel, Cambridge University Press, 40 W. 20 St. New York, NY, United States
-2. Compilers: Principles, Techniques, and Tools (2nd Edition),  A. Aho, M. Lam, R. Sethi, and J. Ullman. Addison Wesley, (August 2006)
+1. show basic theoretical knowledge, both regarding the connection between grammars, automata and languages and regarding fundamental limitations of computation,
+2. apply practical knowledge, both the ability to construct and simulate formal machines and grammars, and
+3. demonstrate the ability to reflect in writing on the course content in relation to different computational paradigms.
+
+**Course content**
+Regular languages and Finite automata.
+Context-free languages and Pushdown automata.
+Recursively enumerable languages and Turing machines.
+The Universal Turing machine.
+Decidability - Stop problem.
+Computing paradigms.
