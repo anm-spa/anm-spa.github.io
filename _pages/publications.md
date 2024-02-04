@@ -1,11 +1,4 @@
 <!-- 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,7 +9,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 **Journal Publications**
 
 [j8] Federico Ciccozzi, Lorenzo Addazi, Sara Abbaspour Asadollah, Björn Lisper, Abu Naser Masud, Saad Mubeen: A Comprehensive Exploration of Languages for Parallel Computing. ACM Comput. Surv. 55(2): 24:1-24:39 (2023) [j7] Abu Naser Masud: The Duality in Computing SSA Programs and Control Dependency. IEEE Trans. Software Eng. 49(4): 1766-1781 (2023) [j6] Abu Naser Masud: Efficient computation of minimal weak and strong control closure. J. Syst. Softw. 184: 111140 (2022) [j5] Abu Naser Masud, Björn Lisper: Semantic Correctness of Dependence-based Slicing for Interprocedural, Possibly Nonterminating Programs. ACM Trans. Program. Lang. Syst. 42(4): 19:1-19:56 (2021) [j4] Abu Naser Masud, Federico Ciccozzi: More precise construction of static single assignment programs using reaching definitions. J. Syst. Softw. 166: 110590 (2020) [j3] Abu Naser Masud, Björn Lisper, Federico Ciccozzi: Automatic Inference of Task Parallelism in Task-Graph-Based Actor Models. IEEE Access 6: 78965-78991 (2018) [j2] Elvira Albert, Samir Genaim, Abu Naser Masud: On the Inference of Resource Usage Upper and Lower Bounds. ACM Trans. Comput. Log. 14(3): 22:1-22:35 (2013) [j1] Amir M. Ben-Amram, Samir Genaim, Abu Naser Masud: On the Termination of Integer Loops. ACM Trans. Program. Lang. Syst. 34(4): 16:1-16:24 (2012)
