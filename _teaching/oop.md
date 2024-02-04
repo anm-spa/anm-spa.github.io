@@ -16,6 +16,6 @@ The following concepts are included in this course:
 - Inheritance and Subtype polymorphism (reusing the OO design) 
 - Static and dynamic binding, method and data hiding, Static methods, Overloading
 - Advanced concepts such as generics, Delegates, Events, Exceptions, abstract classes and interfaces, Operator overloading, etc.
-- Various Design patterns
+- Various design patterns
 
 
