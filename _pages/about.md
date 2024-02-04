@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Community Service
-=================
-
-- Program committee member, ACM SIGPLAN 2023 International Conference on Compiler Construction
-- Program Committee member and session chair, SCAM 2021
-- Program Committee member SCAM 2020 (Research track and RENE track)
-- Distinguished paper award, IEEE TCS, SCAM 2019
-- HERO project grant, 2019
 
 Short Bio
 ===========
