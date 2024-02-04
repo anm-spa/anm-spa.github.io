@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "RRR"
 collection: research
 permalink: /research/research-info
 ---
