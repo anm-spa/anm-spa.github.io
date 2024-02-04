@@ -1,4 +1,4 @@
-Journal Publications
+**Journal Publications**
  
 [j8]	Federico Ciccozzi, Lorenzo Addazi, Sara Abbaspour Asadollah, Björn Lisper, Abu Naser Masud, Saad Mubeen:
 A Comprehensive Exploration of Languages for Parallel Computing. ACM Comput. Surv. 55(2): 24:1-24:39 (2023)
@@ -10,7 +10,7 @@ A Comprehensive Exploration of Languages for Parallel Computing. ACM Comput. Sur
 [j2]	Elvira Albert, Samir Genaim, Abu Naser Masud: On the Inference of Resource Usage Upper and Lower Bounds. ACM Trans. Comput. Log. 14(3): 22:1-22:35 (2013)
 [j1] Amir M. Ben-Amram, Samir Genaim, Abu Naser Masud: On the Termination of Integer Loops. ACM Trans. Program. Lang. Syst. 34(4): 16:1-16:24 (2012)
 
-Conference Publications
+**Conference Publications**
 
 [c10]	Abu Naser Masud, Björn Lisper: On the computation of interprocedural weak control closure. CC 2022: 65-76
 [c9]	Jean Malm, Eduard Enoiu, Abu Naser Masud, Björn Lisper, Zoltán Porkoláb, Sigrid Eldh: An Evaluation of General-Purpose Static Analysis Tools on C/C++ Test Code. SEAA 2022: 133-140
