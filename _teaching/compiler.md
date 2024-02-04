@@ -2,7 +2,7 @@
 title: "Compiler Theory "
 collection: teaching
 type: "Undergraduate course, 7.5 credits"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/compiler
 venue: "Mälardalen University, Computer Science and Software Engineering Department"
 Date: 2020
 location: "Västerås, Sweden"
