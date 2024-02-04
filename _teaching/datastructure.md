@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course, 7.5 credits"
 permalink: /teaching/datastructure
 venue: "Mälardalen University, Computer Science and Software Engineering Department"
-Date: 2020-2023
+Date: 2020-01-01
 location: "Västerås, Sweden"
 ---
 The course aims to provide in-depth knowledge of abstract data types and algorithm design for solving computer science problems.

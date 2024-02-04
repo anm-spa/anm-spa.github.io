@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course, 7.5 credits"
 permalink: /teaching/formallanguae
 venue: "Mälardalen University, Computer Science and Software Engineering Department"
-Date: 2014
+Date: 2014-01-01
 location: "Västerås, Sweden"
 ---
 

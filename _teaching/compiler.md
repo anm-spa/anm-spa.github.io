@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course, 7.5 credits"
 permalink: /teaching/compiler
 venue: "Mälardalen University, Computer Science and Software Engineering Department"
-Date: 2020
+Date: 2020-01-01
 location: "Västerås, Sweden"
 ---
 
