@@ -222,7 +222,7 @@ defaults:
       share: true
       comments: true
   # _research   
-   - scope:
+  - scope:
       path: ""
       type: research
     values:
