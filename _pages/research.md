@@ -38,7 +38,8 @@ author_profile: true
 1. Husni Khanfar
 2. Lorenzo Addazi
 
-
+<!--
 {% for post in site.research %}
   {% include archive-single.html %}
 {% endfor %}
+-->

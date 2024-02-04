@@ -81,7 +81,9 @@ analytics:
 author:
   name             : ""
   avatar           : "bio.jpeg"
-  bio              : "Senior lecturer at [Computer Science and Software Engineering Division](https://www.ipr.mdu.se/divisions/53-Division_of_Computer_Science_and_Software_Engineering),  
+  bio              : "Senior lecturer at [Computer Science and Software Engineering Division](https://www.ipr.mdu.se/divisions/53-Division_of_Computer_Science_and_Software_Engineering)  
+
+
                      [Mälardalen University](https://www.mdu.se/)"
   location         : "Västerås, Sweden"
   employer         :
