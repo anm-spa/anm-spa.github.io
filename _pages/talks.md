@@ -19,5 +19,5 @@ author_profile: true
 
 * Towards constructing the SSA forms using reaching definitions over dominance frontiers, [SCAM conference, Cleveland, USA](https://www.ieee-scam.org/2019/), September 2019
 
-* On the Design of a Static Data Race Detector, workshop at Ericsson and TOCSYC workshop, May 2017
+* On the Design of a Static Data Race Detector, Ericsson annual workshop 2017 and TOCSYC workshop, May 2017
 
