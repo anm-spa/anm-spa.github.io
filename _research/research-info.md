@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: research
-permalink: /research/research
+permalink: /research/research-info
 ---
 
 **News**
