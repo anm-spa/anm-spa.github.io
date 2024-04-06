@@ -56,3 +56,6 @@ author_profile: true
 1. Masud, A. N. (2016). A Survey on Static Data Race Detection Methods. Tech Report. Mälardalen Real-Time Research Centre, Mälardalen University. [http://www.es.mdu.se/publications/4327-](http://www.es.mdu.se/publications/4327-)
    
 2. Masud, Abu Naser, Lisper, Björn. (2023). Time-Sensitive Control Closure: A Key Component for Secure Information Flow. 34th Nordic Workshop on Programming Theory, Sweden. [https://mdu.drive.sunet.se/index.php/s/kmm7SwkjJcsBoXb ](https://mdu.drive.sunet.se/index.php/s/kmm7SwkjJcsBoXb )
+
+***Work-in-progress
+1. Masud, Abu Naser, Olmedo, Federico, Non-termination (in)sensitive slicing for probabilistic programs. [To be submitted](work-in-progress1.html)
