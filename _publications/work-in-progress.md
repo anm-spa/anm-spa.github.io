@@ -1,10 +1,4 @@
 
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
----
 **Non-termination (in)sensitive slicing for probabilistic programs**
 
 Abu Naser Masud, Mälardalen University, Sweden, abu.naser.masud@mdu.se
