@@ -18,4 +18,4 @@ and devised novel algorithms to compute them by introducing a new concept called
 developed (bi) simulation-based proof techniques to verify the correctness of computing all slice variants. Our contributions deepen the
 understanding of static slicing in probabilistic programming, potentially impacting various application domains.
 
-**Preprint** 
+[Preprint](../files/main.pdf)
