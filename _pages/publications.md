@@ -58,4 +58,4 @@ author_profile: true
 2. Masud, Abu Naser, Lisper, Björn. (2023). Time-Sensitive Control Closure: A Key Component for Secure Information Flow. 34th Nordic Workshop on Programming Theory, Sweden. [https://mdu.drive.sunet.se/index.php/s/kmm7SwkjJcsBoXb ](https://mdu.drive.sunet.se/index.php/s/kmm7SwkjJcsBoXb )
 
 **Work-in-progress**
-1. Masud, Abu Naser, Olmedo, Federico, Non-termination (in)sensitive slicing for probabilistic programs. [To be submitted](work-in-progress.md)
+1. Masud, Abu Naser, Olmedo, Federico, Non-termination (in)sensitive slicing for probabilistic programs. [Under Review](work-in-progress.md)
